@@ -116,12 +116,12 @@ ul{
 #banner_housefacts{
 	width:1280px;
 	height:500px;
+	position: relative;
 	margin: 10px auto;
 	background: url(../images/housefacts_banner_ajw.png) repeat-x bottom;	
     background-repeat:no-repeat;
     background-position: top center;
     background-size: 100%;
-
 }
 
 .top_cufon{
@@ -375,6 +375,8 @@ ul{
 	position: absolute;	
 }
 .Apply.housefacts {
+	left: 118px;
+	bottom: 77px;
 
 }
 .Apply {
